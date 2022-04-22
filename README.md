@@ -1,7 +1,7 @@
 # WEBPACK STARTER
 
 
-este es un proyecto inicial que implementa webpac y su configuracion
+este es un proyecto inicial que implementa webpack y su configuracion
 
 
 ### Notas:
